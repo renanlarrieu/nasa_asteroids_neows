@@ -8,7 +8,7 @@ Dentre outras muitas informações.
 
 Se atentar à requisição dos atributos dos objetos criados.
 
-
+*******************************************************************************************************************************
 
 Python script which utilizes web scrapping to take Asteroids-NeoWs in OPEN API, provided by NASA.
 This script can let you visualize asteroids data monitorated by NASA.
